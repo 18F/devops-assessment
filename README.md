@@ -1,3 +1,5 @@
+# This repo has been archived.
+
 ## 18F DevOps Assessment Guide
 
 A questionnaire to evaluate an organization's DevOps capability.
